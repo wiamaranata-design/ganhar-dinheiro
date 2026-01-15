@@ -1,3 +1,0 @@
-git add patches/
-git commit -m "fix: add pnpm patches"
-git push
