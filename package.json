@@ -1,4 +1,3 @@
-cat > package.json << 'EOF'
 {
   "name": "makemoney-app",
   "version": "1.0.0",
